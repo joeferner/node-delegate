@@ -1,9 +1,10 @@
-
 # delegate
 
 Creates delegate functions automatically. This is useful if you don't want to use util.inherits.
 
 ## Example
+
+Simple example.
 
 ```javascript
 var A = function() {
@@ -16,6 +17,8 @@ obj.on("test", function (data) {
   // read data
 });
 ```
+
+Example using class.js module.
 
 ```javascript
 var delegate = require('delegate');
