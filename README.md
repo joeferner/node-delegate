@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/nearinfinity/node-delegate.png)](http://travis-ci.org/nearinfinity/node-delegate)
 # delegate
 
 Creates delegate functions automatically. This is useful if you don't want to use util.inherits.
